@@ -4,8 +4,10 @@
     "\\fonts",
     "\\img",
     "\\scripts",
-    "\\styles"
+    "\\styles",
+    "\\styles\\base",
+    "\\styles\\blocks"
   ],
-  "SelectedNode": "\\.idea",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
